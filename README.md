@@ -20,5 +20,5 @@ var sum = first + second;
 
 
 - [x] First task
-- [x] Second task
+- [ ] Second task
 - [ ] Third task
