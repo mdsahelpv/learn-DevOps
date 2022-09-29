@@ -7,3 +7,8 @@ This is also __bold__ text.
 
 
 \_This is all \*\*plain\*\* text\_.
+
+First|Second
+-|-
+1|2
+3|4
