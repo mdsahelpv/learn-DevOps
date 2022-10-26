@@ -1,2 +1,2 @@
 # learn-DevOps
-Everythign yuo need to learn about DevOps
+Everythign you need to learn about DevOps
